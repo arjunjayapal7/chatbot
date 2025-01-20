@@ -31,5 +31,6 @@ Before you begin, ensure you have the following installed on your machine:
 - **Node.js** (v14 or higher)
 - **PostgreSQL** (for the database)
 - **npm** (Node Package Manager)
+![ChatBot](https://github.com/user-attachments/assets/48d1e7f6-efd8-499e-b699-11b131c5a9fe)
 
 
